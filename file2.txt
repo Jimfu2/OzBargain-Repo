@@ -1,2 +1,3 @@
 Another text file.
 Great. Marvellous.
+Is it really a text file?
